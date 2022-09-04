@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(43, 50, 184);
+}
+
+.row-1 {
+    padding: 50px 0px 15px 0px;
+}
+
+.row-1 h1 i {
+    font-size: 25px;
+    color: yellow;
+}
+
+.row-1 h1 {
+    color: whitesmoke;
+}
+
+.row-2 input {
+    border-radius: 5px;
+    width: 92.5%;
+    padding: 5px 0px 5px 10px;
+}
+
+.row-3-sub {
+    margin: 30px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.row-3-sub img {
+    height: 120px;
+    margin-left: -50px !important;
+    margin: 20px;
+}
+
+.row-3-sub .col-9 {
+    margin-top: 20px;
+}
